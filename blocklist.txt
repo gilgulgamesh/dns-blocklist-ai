@@ -10,7 +10,6 @@
 ||cat-gpt.com^
 ||character.ai^
 ||chatbotgpt.fr^
-||chatbox.botnation.ai^
 ||chatgbt.one^
 ||chatgpt.com^
 ||chatgptfrance.net^
@@ -24,7 +23,6 @@
 ||claude.ai^
 ||codegpt.co^
 ||copilot.microsoft.com^
-||copilot-proxy.githubusercontent.com
 ||craiyon.com^
 ||crushon.ai^
 ||deepai.org^
@@ -62,7 +60,6 @@
 ||novelai.net^
 ||o1gpt.org^
 ||openai.com^
-||origin-tracker.githubusercontent.com^
 ||pentestgpt.ai^
 ||perchance.org^
 ||perplexity.ai^
@@ -89,7 +86,6 @@
 ||talkai.info^
 ||talkie-ai.com^
 ||talkto.ai^
-||talkto-api.pfpmaker.workers.dev^
 ||talktoo.ai^
 ||talktotransformer.com^
 ||textsynth.com^
